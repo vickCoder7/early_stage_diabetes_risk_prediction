@@ -9,7 +9,7 @@
 
 > Executive Summary
  
-This project is a beginner-level of implementation of machine learning algorithm, Logistic Regression to predict the risk of diabetes. The project starts with data encoding as all columns of the data except the 'Age' column, are bianry columns, i.e., they have only two distinct values. We then move to explore the data and check the correlation between the different features and the risk of diabetes. To finish, we implement the Logistic Regression to classify a given patient as at risk of diabetes or not. The model secured an accuracy score of 92.30%.
+This project is a beginner-level of implementation of machine learning algorithm, Logistic Regression to predict the risk of diabetes. The project starts with data encoding as all columns of the data except the 'Age' column, are binary columns, i.e., they have only two distinct values. We then move to explore the data and check the correlation between the different features and the risk of diabetes. To finish, we implement the Logistic Regression to classify a given patient as at risk of diabetes or not. The model secured an accuracy score of 92.30%.
 
 > Data Source and Description
 
