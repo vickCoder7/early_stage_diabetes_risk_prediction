@@ -2,9 +2,10 @@
 
 1. Executive summary
 2. Data source and description
-3. Data exploration and preprocessing
-4. Machine learning model
-5. Results
+3. Setup
+4. Data exploration and preprocessing
+5. Machine learning model
+6. Results
 
 
 > Executive Summary
